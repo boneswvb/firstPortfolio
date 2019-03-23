@@ -1,0 +1,72 @@
+body {
+  background-image: url("http://res.cloudinary.com/wimvb/image/upload/v1510496470/bground5_hn3ue2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 100%;
+}
+.main_hedding {
+  font-family: Lobster, Monospace;
+  font-size: 60px;
+  color: blue;
+}
+.sub_heading {
+  font-family: Lobster, Monospace;
+  font-size: 40px;
+  color: blue;
+}
+.about_text {
+  font-size: 17px;
+  line-height: 2.5;
+}
+.small_font {
+  font-family: Arial;
+  font-size: 10px;
+  color: black;
+}
+.photo {
+  border-color: blue;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 10px;
+}
+.photo_left {
+  width: 200px;
+  height: 200px;
+  border: blue 10px solid;
+}
+
+#well {
+  background-color: yellow;
+  border: blue 3px solid;
+  height: 300px;
+  width: 250px;
+  border-radius: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.portext1 {
+  color: black;
+  font-size: 10px;
+}
+
+.clickPhoto {
+  color: black;
+  text-align:center;
+  font-size:10px;
+}
+.last_line {
+  background-color: green;
+}
+
+.button_text {
+  color: black;
+}
+
+.href_button {
+  color: black;
+}
+.portfolio_pic {
+ margin-left:150px;
+}
